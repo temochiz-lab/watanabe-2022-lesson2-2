@@ -1,2 +1,6 @@
+PowerShellで、
 sleep(2) ;[console]::Beep(440,12000)
+などしたものを録音。
+
 https://audiomass.co/
+で編集。
